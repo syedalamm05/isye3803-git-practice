@@ -11,9 +11,9 @@ y = x**2
 plt.plot(x, y)
 
 # Add labels and title
-plt.xlabel('x')
-plt.ylabel('f(x) = x²')
-plt.title('Graph of f(x) = x²')
+plt.xlabel('x new')
+plt.ylabel('f(x) = x² new')
+plt.title('Graph of f(x) = x² new')
 
 # Display the plot
 plt.show()
