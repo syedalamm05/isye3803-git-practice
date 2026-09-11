@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-
+# AI Was used to help create graph 
 # Create x values from -10 to 10
 x = np.linspace(-10, 10, 100)
 
